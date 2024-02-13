@@ -1,5 +1,6 @@
-Merking Vinnusvæða
+# Merking Vinnusvæða
 
-Fyrsta Könnun:
+## Fyrsta Könnun:
 
 ![alt text](myndir/Q1.png)
+
