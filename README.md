@@ -38,19 +38,35 @@
 
 [Tölfræði.xlsx](docs/T%C3%B6lfr%C3%A6%C3%B0i.xlsx)
 
+---
 
-## 1. Könnun:
+## Kannanir
+
+- [1. Könnun](#1-könnun)
+- [2. Könnun](#2-könnun)
+- [3. Könnun](#3-könnun)
+- [4. Könnun](#4-könnun)
+
+---
+
+### 1. Könnun
 
 ![alt text](myndir/Q1.png)
 
-## 2. Könnun:
+---
+
+### 2. Könnun
 
 ![alt text](myndir/Q2.png)
 
-## 3. Könnun:
+---
+
+### 3. Könnun
 
 ![alt text](myndir/Q3.png)
 
-## 4. Könnun:
+---
+
+### 4. Könnun
 
 ![alt text](myndir/Q4.png)
