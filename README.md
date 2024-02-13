@@ -77,3 +77,8 @@ https://eu01web.zoom.us/j/66517914103
 
 Canvas:
 https://opnihaskolinn.instructure.com/
+
+STAÐUR FYRIR STAÐARNEMA:
+Opni háskólinn í HR, Menntavegi 1, 102 Reykjavík. Við erum á 2. hæð í Mars byggingu.
+Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og síðan inn langan gang til vinstri. Gengið er framhjá fyrstu tröppunum og upp þær næstu. Opni háskólinn í HR er þá strax á hægri hönd.
+
