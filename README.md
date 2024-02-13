@@ -39,10 +39,18 @@
 [Tölfræði.xlsx](docs/T%C3%B6lfr%C3%A6%C3%B0i.xlsx)
 
 
-## Fyrsta Könnun:
+## 1. Könnun:
 
 ![alt text](myndir/Q1.png)
 
-## Önnur Könnun:
+## 2. Könnun:
 
 ![alt text](myndir/Q2.png)
+
+## 3. Könnun:
+
+![alt text](myndir/Q3.png)
+
+## 4. Könnun:
+
+![alt text](myndir/Q4.png)
