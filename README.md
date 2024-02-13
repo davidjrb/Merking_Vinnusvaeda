@@ -71,6 +71,7 @@
 
 ![alt text](myndir/Q4.png)
 
+---
 
 Zoom:
 https://eu01web.zoom.us/j/66517914103
@@ -82,3 +83,18 @@ STAÐUR FYRIR STAÐARNEMA:
 Opni háskólinn í HR, Menntavegi 1, 102 Reykjavík. Við erum á 2. hæð í Mars byggingu.
 Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og síðan inn langan gang til vinstri. Gengið er framhjá fyrstu tröppunum og upp þær næstu. Opni háskólinn í HR er þá strax á hægri hönd.
 
+---
+
+Hlekkir Vegagerðarinnar:
+
+https://geoportal.vegagerdin.is/vidhald/
+
+https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/vinnusvaedamerkingar/
+
+https://www.vegagerdin.is/vefur2.nsf/Files/Reglur_um_vinnusvmerk_16_utg_mars_2020/$file/Reglur%20um%20vinnusv%C3%A6%C3%B0amerkingar%2016.%20%C3%BAtg%C3%A1fa%20mars%202020.pdf
+
+---
+
+Reykjavík:
+
+https://reykjavik.is/sites/default/files/skjol_thjonustulysingar/Merking_vinnusvaeda_mars_2013_8utgafa_0.pdf
