@@ -85,6 +85,12 @@ Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og s
 
 ---
 
+Til Prófs (held ég):
+
+[12-6 BÓL Verkefni, vefsjár og þriggja arma vegamót.pptx](docs/12-6%20B%C3%93L%20Verkefni,%20vefsj%C3%A1r%20og%20%C3%BEriggja%20arma%20vegam%C3%B3t.pptx)
+
+---
+
 Hlekkir Vegagerðarinnar:
 
 https://geoportal.vegagerdin.is/vidhald/
