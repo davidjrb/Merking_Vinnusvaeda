@@ -70,3 +70,10 @@
 ### 4. Könnun
 
 ![alt text](myndir/Q4.png)
+
+
+Zoom:
+https://eu01web.zoom.us/j/66517914103
+
+Canvas:
+https://opnihaskolinn.instructure.com/
