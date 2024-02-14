@@ -1,7 +1,7 @@
 # Merking Vinnusvæða
 
 - [1. Námsefni](#Námsefni)
-- [2. Kannanir](#Kannanir.md)
+- [2. Kannanir](#Kannanir)
 - [3. HR Kennsla](#HR-Kennsla)
 - [4. Lokaverkefni](#Lokaverkefni)
 - [5. Hlekkir](#Hlekkir)
