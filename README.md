@@ -42,7 +42,7 @@
 
 ## Kannanir
 
-[Kannanir](Merking_Vinnusvaeda/blob/main/kannanir/README.md)
+[Kannanir](/kannanir/README.md)
 
 /davidjrb/
 - [1. Könnun](#1-könnun)
