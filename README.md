@@ -50,11 +50,11 @@
 
 ## Verkefni:
 
-### :
-
 - [Dagur 1 - Skjáskot - Lausn](/verkefni/Verkefni1.JPG)
 
 - 
+
+- [Dagur 2 - Dæmi um hjáleið](/verkefni/hjaleid.jpg)
 
 **Ath:**
 - [PPTX: 12-6 "þriggja arma" vegamót - Seinni Dagur](docs/12-6%20B%C3%93L%20Verkefni,%20vefsj%C3%A1r%20og%20%C3%BEriggja%20arma%20vegam%C3%B3t.pptx)
