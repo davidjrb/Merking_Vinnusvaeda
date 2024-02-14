@@ -40,11 +40,10 @@
 
 ---
 
-## Kannanir
+Kannanir
 
-[Kannanir](/kannanir/README.md)
+## [Kannanir](/kannanir/README.md)
 
-/davidjrb/
 - [1. Könnun](#1-könnun)
 - [2. Könnun](#2-könnun)
 - [3. Könnun](#3-könnun)
