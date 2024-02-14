@@ -48,8 +48,8 @@
 
 ---
 
-## [Kannanir](kannanir/README.md)
-
+## Kannanir:
+- [Kannanir - yfirlit](kannanir/README.md)
 - [1. Könnun](kannanir/#1-könnun)
 - [2. Könnun](kannanir/#2-könnun)
 - [3. Könnun](kannanir/#3-könnun)
