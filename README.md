@@ -61,12 +61,15 @@
 
 ## HR Kennsla:
 
-Canvas:
+### Canvas:
 https://opnihaskolinn.instructure.com/
 
-STAÐUR FYRIR STAÐARNEMA:
+### STAÐUR FYRIR STAÐARNEMA:
 Opni háskólinn í HR, Menntavegi 1, 102 Reykjavík. Við erum á 2. hæð í Mars byggingu.
 Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og síðan inn langan gang til vinstri. Gengið er framhjá fyrstu tröppunum og upp þær næstu. Opni háskólinn í HR er þá strax á hægri hönd.
+
+### Zoom, seinni dagur:
+- https://eu01web.zoom.us/j/66876583845
 
 ---
 
@@ -86,5 +89,4 @@ Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og s
 ### Reykjavík:
 - https://reykjavik.is/sites/default/files/skjol_thjonustulysingar/Merking_vinnusvaeda_mars_2013_8utgafa_0.pdf
 
-### Zoom, seinni dagur:
-- https://eu01web.zoom.us/j/66876583845
+
