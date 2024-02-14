@@ -48,6 +48,13 @@
 
 ---
 
+## Verkefni:
+
+###Verkefni - Leyst sameiginlega á seinni degi:
+[12-6 BÓL Verkefni, vefsjár og þriggja arma vegamót.pptx](docs/12-6%20B%C3%93L%20Verkefni,%20vefsj%C3%A1r%20og%20%C3%BEriggja%20arma%20vegam%C3%B3t.pptx)
+
+---
+
 ## Kannanir:
 - [Kannanir - yfirlit](kannanir/README.md)
 - [1. Könnun](kannanir/#1-könnun)
@@ -70,12 +77,6 @@ Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og s
 
 ### Zoom, seinni dagur:
 - https://eu01web.zoom.us/j/66876583845
-
----
-
-## Lokaverkefni:
-
-[12-6 BÓL Verkefni, vefsjár og þriggja arma vegamót.pptx](docs/12-6%20B%C3%93L%20Verkefni,%20vefsj%C3%A1r%20og%20%C3%BEriggja%20arma%20vegam%C3%B3t.pptx)
 
 ---
 
