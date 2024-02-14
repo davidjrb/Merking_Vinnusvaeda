@@ -1,5 +1,15 @@
 # Merking Vinnusvæða
 
+- [1. Námsefni](#Námsefni)
+- [2. Kannanir](kannanir/README.md)
+- [3. HR Kennsla](#HR-Kennsla)
+- [4. Lokaverkefni](#Lokaverkefni)
+- [5. Hlekkir](#Hlekkir)
+
+---
+
+## Hlekkir:
+
 ## Námsefni:
 
 [01 Kennsluáætlun 2023.10.30.pdf](docs/01%20Kennslu%C3%A1%C3%A6tlun%202023.10.30.pdf)
@@ -50,8 +60,7 @@
 
 ---
 
-Zoom:
-https://eu01web.zoom.us/j/66517914103
+## HR Kennsla:
 
 Canvas:
 https://opnihaskolinn.instructure.com/
@@ -62,21 +71,21 @@ Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og s
 
 ---
 
-Til Prófs (held ég):
+## Lokaverkefni:
 
 [12-6 BÓL Verkefni, vefsjár og þriggja arma vegamót.pptx](docs/12-6%20B%C3%93L%20Verkefni,%20vefsj%C3%A1r%20og%20%C3%BEriggja%20arma%20vegam%C3%B3t.pptx)
 
 ---
 
-Hlekkir Vegagerðarinnar:
+## Hlekkir:
+
+Vegagerðarinnar:
 
 https://geoportal.vegagerdin.is/vidhald/
 
 https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/vinnusvaedamerkingar/
 
 https://www.vegagerdin.is/vefur2.nsf/Files/Reglur_um_vinnusvmerk_16_utg_mars_2020/$file/Reglur%20um%20vinnusv%C3%A6%C3%B0amerkingar%2016.%20%C3%BAtg%C3%A1fa%20mars%202020.pdf
-
----
 
 Reykjavík:
 
