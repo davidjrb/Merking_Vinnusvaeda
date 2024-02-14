@@ -1,10 +1,10 @@
 # Merking Vinnusvæða
 
-- [1. Námsefni](#Námsefni)
-- [2. Verkefni](#Verkefni)
-- [3. Kannanir](#Kannanir)
-- [4. HR Kennsla](#HR-Kennsla)
-- [5. Hlekkir](#Hlekkir)
+- [Námsefni](#Námsefni)
+- [Verkefni](#Verkefni)
+- [Kannanir](#Kannanir)
+- [HR Kennsla](#HR-Kennsla)
+- [Hlekkir](#Hlekkir)
 
 ---
 
