@@ -52,7 +52,7 @@
 
 - [Dagur 1 - Skjáskot - "þriggja arma" Lausn](/verkefni/Verkefni1.JPG)
 
-- 
+- [Dagur 2 - Skjáskot - "þriggja arma" Lausn](/verkefni/verkefniFINALlausn.jpg)
 
 - [Dagur 2 - Dæmi um hjáleið við Snorrabraut](/verkefni/hjaleid.jpg)
 
