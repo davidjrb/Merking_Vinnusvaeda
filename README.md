@@ -55,6 +55,7 @@
 - [3. Könnun](kannanir/#3-könnun)
 - [4. Könnun](kannanir/#4-könnun)
 - [5. Könnun](kannanir/#5-könnun)
+- [6. Könnun](kannanir/#6-könnun)
 
 ---
 
