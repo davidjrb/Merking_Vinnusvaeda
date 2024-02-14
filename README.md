@@ -40,11 +40,9 @@
 
 ---
 
-Kannanir
+## [Kannanir](kannanir/README.md)
 
-## [Kannanir](/kannanir/README.md)
-
-- [1. Könnun](#1-könnun)
+- [1. Könnun](kannanir/#1-könnun)
 - [2. Könnun](#2-könnun)
 - [3. Könnun](#3-könnun)
 - [4. Könnun](#4-könnun)
