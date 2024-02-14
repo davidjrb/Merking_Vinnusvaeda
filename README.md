@@ -78,14 +78,13 @@ Ef komið er inn um aðalinngang HR (Sólin) er gengið þvert yfir Sólina og s
 
 ## Hlekkir:
 
-Vegagerðarinnar:
+### Vegagerðin:
+- https://geoportal.vegagerdin.is/vidhald/
+- https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/vinnusvaedamerkingar/
+- https://www.vegagerdin.is/vefur2.nsf/Files/Reglur_um_vinnusvmerk_16_utg_mars_2020/$file/Reglur%20um%20vinnusv%C3%A6%C3%B0amerkingar%2016.%20%C3%BAtg%C3%A1fa%20mars%202020.pdf
 
-https://geoportal.vegagerdin.is/vidhald/
+### Reykjavík:
+- https://reykjavik.is/sites/default/files/skjol_thjonustulysingar/Merking_vinnusvaeda_mars_2013_8utgafa_0.pdf
 
-https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/vinnusvaedamerkingar/
-
-https://www.vegagerdin.is/vefur2.nsf/Files/Reglur_um_vinnusvmerk_16_utg_mars_2020/$file/Reglur%20um%20vinnusv%C3%A6%C3%B0amerkingar%2016.%20%C3%BAtg%C3%A1fa%20mars%202020.pdf
-
-Reykjavík:
-
-https://reykjavik.is/sites/default/files/skjol_thjonustulysingar/Merking_vinnusvaeda_mars_2013_8utgafa_0.pdf
+### Zoom, seinni dagur:
+- https://eu01web.zoom.us/j/66876583845
