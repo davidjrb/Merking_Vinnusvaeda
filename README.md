@@ -75,6 +75,8 @@
 
 ### Vegagerðin:
 - https://geoportal.vegagerdin.is/vidhald/
+- https://www.vegagerdin.is/vegakerfid/umferdarmerki/
+- https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/
 - https://www.vegagerdin.is/upplysingar-og-utgafa/leidbeiningar-og-stadlar/vinnusvaedamerkingar/
 - https://www.vegagerdin.is/vefur2.nsf/Files/Reglur_um_vinnusvmerk_16_utg_mars_2020/$file/Reglur%20um%20vinnusv%C3%A6%C3%B0amerkingar%2016.%20%C3%BAtg%C3%A1fa%20mars%202020.pdf
 
