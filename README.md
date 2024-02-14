@@ -43,33 +43,10 @@
 ## [Kannanir](kannanir/README.md)
 
 - [1. Könnun](kannanir/#1-könnun)
-- [2. Könnun](#2-könnun)
-- [3. Könnun](#3-könnun)
-- [4. Könnun](#4-könnun)
-
----
-
-### 1. Könnun
-
-![alt text](myndir/Q1.png)
-
----
-
-### 2. Könnun
-
-![alt text](myndir/Q2.png)
-
----
-
-### 3. Könnun
-
-![alt text](myndir/Q3.png)
-
----
-
-### 4. Könnun
-
-![alt text](myndir/Q4.png)
+- [2. Könnun](kannanir/#2-könnun)
+- [3. Könnun](kannanir/#3-könnun)
+- [4. Könnun](kannanir/#4-könnun)
+- [5. Könnun](kannanir/#5-könnun)
 
 ---
 
